@@ -1,0 +1,91 @@
+music:0.0
+sound:0.1056338
+invertYMouse:false
+mouseSensitivity:0.5
+fov:0.0
+gamma:1.0
+viewDistance:1
+guiScale:2
+particles:0
+bobView:true
+anaglyph3d:false
+advancedOpengl:false
+fpsLimit:0
+difficulty:2
+fancyGraphics:false
+ao:2
+clouds:true
+skin:Default
+lastServer:
+lang:en_US
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+serverTextures:true
+snooperEnabled:true
+fullscreen:false
+enableVsync:false
+hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+showCape:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_Zoom:44
+key_key.command:53
+key_key.minimap.voxelmapmenu:50
+key_IC2 ALT Key:56
+key_IC2 Boost Key:0
+key_IC2 Mode Switch Key:34
+key_IC2 Side Inventory Key:19
+key_IC2 Hub Expand Key:45
+key_Teleport:23
+key_Magitek Ability:35
+key_Magitek (Dock):48
+key_Pneumatic Helmet Options:33
+key_key.archimedes.up:200
+key_key.archimedes.down:208
+key_key.archimedes.brake:157
+key_key.archimedes.align:13
+key_key.backpack.openBackpack:40
+key_Mekanism Mode Switch:50
+key_Mekanism Voice:22
+key_Open MPS Keybind GUI:37
+key_Go Down (MPS Flight Control):209
+key_Cycle Tool Backward (MPS):201
+key_Cycle Tool Forward (MPS):-1
+key_Zoom (MPS):21
+key_Cosmetic (MPS):38
+key_Change OneWayBlock face:43
+key_key.craftingGrid:46
+key_key.control:29
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_keybind.loco.faster:52
+key_keybind.loco.slower:51
+key_keybind.loco.mode:36
+key_keybind.loco.whistle:49
